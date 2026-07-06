@@ -2,7 +2,13 @@
 
 本仓库的日报以技术新闻为主，优先关注模型、API、开源、论文、开发者工具、AI agent、算力基础设施和安全评估。
 
-## 官方公告
+## 引用规则
+
+- `来源` 必须指向具体文章、官方博客、论文页面、系统卡、技术报告或 GitHub 项目页。
+- 首页、新闻列表页、排行榜、搜索结果页和每日聚合页只能用于发现线索，不能作为日报条目的最终来源。
+- 如果只能找到二次转述，且找不到原始页面或可信新闻页面，该条不进入日报。
+
+## 发现渠道：官方公告
 
 - OpenAI News：https://openai.com/news/
 - Google AI Blog：https://blog.google/technology/ai/
@@ -12,7 +18,7 @@
 - Microsoft AI：https://news.microsoft.com/source/topics/ai/
 - NVIDIA Blog：https://blogs.nvidia.com/blog/category/deep-learning/
 
-## 论文与开源
+## 发现渠道：论文与开源
 
 - arXiv cs.AI：https://arxiv.org/list/cs.AI/recent
 - arXiv cs.LG：https://arxiv.org/list/cs.LG/recent
@@ -21,14 +27,14 @@
 - Hugging Face Papers：https://huggingface.co/papers/trending
 - Papers with Code：https://paperswithcode.com/
 
-## 技术媒体
+## 发现渠道：技术媒体
 
 - TechCrunch AI：https://techcrunch.com/category/artificial-intelligence/
 - The Verge AI：https://www.theverge.com/ai-artificial-intelligence
 - VentureBeat AI：https://venturebeat.com/category/ai/
 - MIT News AI：https://news.mit.edu/topic/artificial-intelligence2
 
-## 中文技术媒体
+## 发现渠道：中文技术媒体
 
 - 机器之心：https://www.jiqizhixin.com/
 - 量子位：https://www.qbitai.com/
