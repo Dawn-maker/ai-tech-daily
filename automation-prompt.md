@@ -11,8 +11,8 @@ This repository is updated by a daily Codex automation.
 
 1. Pull the latest `main` branch before editing.
 2. Determine the target date as yesterday in Asia/Shanghai.
-3. Collect only AI technology items published or materially updated during the target date, from 00:00 to 23:59 Asia/Shanghai.
-4. Do not backfill with older news. If fewer than 20 qualified items exist, publish fewer than 20.
+3. Collect only AI technology items published, created, or materially updated on the target date. For cross-timezone sources, use the local date shown by the source page or repository metadata. Do not include pages whose displayed publication date is earlier than the target date.
+4. Aim for up to 30 items. Do not backfill with older news. If fewer than 30 qualified items exist, publish fewer than 30.
 5. Prioritize models, APIs, open source projects, papers, developer tools, AI agents, image/video/multimodal generation, compute infrastructure, and safety evaluations.
 6. Include image/video/multimodal technology items when there are qualified items on the target date.
 7. Use discovery channels from `sources.md`, but every final `来源` must point to a concrete article, official blog post, paper page, technical report, system card, or GitHub project page.
